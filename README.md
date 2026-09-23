@@ -28,7 +28,7 @@ At the start of each conversation, call list_namespaces to check for stored cont
 
 Context restoration across sessions with a single hosted MCP server. The same token also
 unlocks locks, idempotency, and unit conversion - see the
-[agent-utils hub](https://codeberg.org/agent-utils/agent-utils).
+[agent-utils hub](https://github.com/agent-utils/agent-utils).
 
 ## License
 
