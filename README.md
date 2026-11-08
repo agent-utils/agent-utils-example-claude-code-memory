@@ -31,6 +31,10 @@ gives you locks, a task board, pub/sub, idempotency and webhook inboxes, and the
 works on the extensions server (math and unit conversion) - see the
 [agent-utils hub](https://github.com/agent-utils/agent-utils).
 
+## Contact
+
+Questions, bugs or account issues: support@agent-utils.ai
+
 ## License
 
 MIT. agent_utils is a hosted commercial service; this example is not the service.
